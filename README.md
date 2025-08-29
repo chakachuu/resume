@@ -1,14 +1,14 @@
 # Ren — Resume
 
-**Location:** Yerevan, Armenia
-**Links:** [github.com/chakachuu](https://github.com/chakachuu) · [Personal Site](https://chakachuu.github.io/ren/)
-**Contact:** [renaldichakab@gmail.com](mailto:renaldichakab@gmail.com) (replace with your real one)
+- **Location:** Yerevan, Armenia
+- **Links:** [github.com/chakachuu](https://github.com/chakachuu) - [Personal Site](https://chakachuu.github.io/ren/)
+- **Contact:** [renaldichakab@gmail.com](mailto:renaldichakab@gmail.com) (replace with your real one)
 
 ---
 
 ## Summary
 
-Customer Service Representative (night shift) and Digital Marketer who also builds clean, Apple‑leaning front‑end interfaces as personal projects. Strong at fast iteration, tidy semantics, and performance‑friendly micro‑interactions. Marketing side covers campaign planning, content calendars, and analytics hygiene. Support side covers high‑volume triage, calm execution under pressure, and crisp communication. Currently shipping a one‑pager personal site and an AI companion experiment (TTS + LLM).
+Customer Service Representative and Digital Marketer who also builds clean, Apple‑leaning front‑end interfaces as personal projects. Strong at fast iteration, tidy semantics, and performance‑friendly micro‑interactions. Marketing side covers campaign planning, content calendars, and analytics hygiene. Support side covers high‑volume triage, calm execution under pressure, and crisp communication. Currently Learning (AI + LLM).
 
 ---
 
@@ -16,11 +16,11 @@ Customer Service Representative (night shift) and Digital Marketer who also buil
 
 **Front‑end & UI/UX:** HTML, CSS, JavaScript (ES6+), accessibility (WCAG), responsive layout systems, motion/micro‑interactions, audio APIs, typewriter/lyrics UI, design tokens, GitHub Pages
 
-**Digital Marketing:** Content strategy & calendars, short‑form video, copywriting, basic SEO, GA4/Insights dashboards, UTM discipline, light paid media (Meta), landing page QA
+**Digital Marketing:** Content strategy & calendars, short‑form video, copywriting, basic SEO, light paid media (Meta), landing page QA
 
-**Customer Support:** Ticket triage & prioritization, live chat / email handling, escalation paths & SLAs, CSAT hygiene, knowledge base notes/SOPs, shift handover discipline, CRM tools (Zendesk/Freshdesk/HubSpot ‑ adaptable)
+**Customer Support:** live chat / email handling, escalation paths & SLAs, CSAT hygiene, knowledge base notes/SOPs, shift handover discipline, CRM tools (Zendesk/Freshdesk/HubSpot ‑ adaptable)
 
-**Tools:** Git/GitHub, Figma/Canva, GA4, Meta Business Suite/Ads Manager, Notion, basic Node tooling
+**Tools:** Git/GitHub, Figma/Canva, GA4, Meta Business Suite/Ads Manager, Notion, basic Node tooling, Adobe Creative Suite (After Effects, Photoshop, Premiere Pro)
 
 ---
 
@@ -31,7 +31,6 @@ Customer Service Representative (night shift) and Digital Marketer who also buil
 > 2024 - 2025
 
 * Handled high‑volume customer inquiries across chat/email with steady tone and clear next steps.
-* Triaged, resolved, or escalated within SLA; logged clean notes for handoffs across shifts.
 * Wrote/updated quick‑reply macros and SOP snippets to reduce repeat contacts and speed responses.
 * Flagged recurring issues to product/ops with examples and suggested fixes.
 
