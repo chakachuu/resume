@@ -2,7 +2,7 @@
 
 - **Location:** Yerevan, Armenia
 - **Links:** [github.com/chakachuu](https://github.com/chakachuu) - [Personal Site](https://chakachuu.github.io/ren/)
-- **Contact:** [renaldichakab@gmail.com](mailto:renaldichakab@gmail.com) (replace with your real one)
+- **Contact:** [renaldichakab@gmail.com](mailto:renaldichakab@gmail.com)
 
 ---
 
