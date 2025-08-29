@@ -18,7 +18,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 
 **Digital Marketing:** Content strategy & calendars, short‑form video, copywriting, basic SEO, light paid media (Meta), landing page QA
 
-**Customer Support:** live chat / email handling, escalation paths & SLAs, CSAT hygiene, knowledge base notes/SOPs, shift handover discipline, CRM tools (Zendesk/Freshdesk/HubSpot ‑ adaptable)
+**Customer Support:** live chat / email handling, knowledge base notes/SOPs, shift handover discipline, CRM tools (Zendesk/Freshdesk/HubSpot ‑ adaptable)
 
 **Tools:** Git/GitHub, Figma/Canva, GA4, Meta Business Suite/Ads Manager, Notion, basic Node tooling, Adobe Creative Suite (After Effects, Photoshop, Premiere Pro)
 
