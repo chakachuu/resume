@@ -26,7 +26,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 
 ## Experience
 
-### Trishula Tech — Customer Service Representative
+### Trishula Tech — Customer Service Representative (On-Site)
 *Yerevan, Armenia*
 > 2024 - 2025
 
@@ -34,7 +34,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 * Wrote/updated quick‑reply macros and SOP snippets to reduce repeat contacts and speed responses.
 * Flagged recurring issues to product/ops with examples and suggested fixes.
 
-### Robot&Co. Bar & Lounge — Digital Marketing (Remote)
+### Robot&Co. Bar & Lounge — Digital Marketing (Remote/Hybrid)
 *Jakarta, Indonesia*
 > 2023 - 2024
 
@@ -43,7 +43,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 * Managed posting cadence, replied to DMs/comments, and coordinated with staff for assets.
 * Monitored reach/CTR/foot‑traffic signals and adjusted creatives accordingly.
 
-### BRINS — Digital Marketing (Remote)
+### BRINS — Digital Marketing (Remote/Hybrid)
 *Jakarta, Indonesia*
 > 2022 - 2023
 
