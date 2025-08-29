@@ -51,6 +51,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 * Coordinated light paid pushes (Meta) and tracked results with UTMs and simple dashboards.
 * Ran promos and micro‑campaigns tied to product drops; iterated based on engagement data.
 * Partnered with sales/ops for timing, inventory notes, and community replies.
+
 ---
 
 ## Selected Projects (Front‑end)
