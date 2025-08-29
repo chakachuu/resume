@@ -8,7 +8,7 @@
 
 ## Summary
 
-Customer Service Representative and Digital Marketer who also builds clean, Apple‑leaning front‑end interfaces as personal projects. Strong at fast iteration, tidy semantics, and performance‑friendly micro‑interactions. Marketing side covers campaign planning, content calendars, and analytics hygiene. Support side covers high‑volume triage, calm execution under pressure, and crisp communication. Currently Learning (AI + LLM).
+Customer Service Representative and Digital Marketer who also builds clean, Cupertino‑leaning front‑end interfaces as personal projects. Strong at fast iteration, tidy semantics, and performance‑friendly micro‑interactions. Marketing side covers campaign planning, content calendars, and analytics hygiene. Support side covers high‑volume triage, calm execution under pressure, and crisp communication. Currently Learning (AI + LLM).
 
 ---
 
