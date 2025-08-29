@@ -1,4 +1,4 @@
-# Ren — Resume
+# Ren
 
 - **Location:** Yerevan, Armenia
 - **Links:** [github.com/chakachuu](https://github.com/chakachuu) - [Personal Site](https://chakachuu.github.io/ren/)
