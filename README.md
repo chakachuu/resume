@@ -2,7 +2,7 @@
 
 **Location:** Yerevan, Armenia
 **Links:** [github.com/chakachuu](https://github.com/chakachuu) · [Personal Site](https://chakachuu.github.io/ren/)
-**Contact:** [ren@email.example](mailto:ren@email.example) (replace with your real one)
+**Contact:** [renaldichakab@gmail.com](mailto:renaldichakab@gmail.com) (replace with your real one)
 
 ---
 
@@ -68,4 +68,4 @@ Customer Service Representative (night shift) and Digital Marketer who also buil
 
 ## Education
 
-Self‑taught via documentation, design systems, and practice projects. Ongoing focus on motion, a11y, and modern CSS/JS.
+Self‑taught via documentation, design systems, and practice projects. Ongoing focus on motion, and modern CSS/JS.
