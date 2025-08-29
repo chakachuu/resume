@@ -34,7 +34,7 @@ Customer Service Representative and Digital Marketer who also builds clean, Appl
 * Wrote/updated quick‑reply macros and SOP snippets to reduce repeat contacts and speed responses.
 * Flagged recurring issues to product/ops with examples and suggested fixes.
 
-### Robot\&Co. Bar & Lounge — Digital Marketing (Remote)
+### Robot&Co. Bar & Lounge — Digital Marketing (Remote)
 *Jakarta, Indonesia*
 > 2023 - 2024
 
